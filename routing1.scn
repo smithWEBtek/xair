@@ -1,0 +1,79 @@
+/ch/01/config/insrc In01
+/ch/02/config/insrc In02
+/ch/03/config/insrc In03
+/ch/04/config/insrc In04
+/ch/05/config/insrc In05
+/ch/06/config/insrc In06
+/ch/07/config/insrc In07
+/ch/08/config/insrc In08
+/ch/09/config/insrc In09
+/ch/10/config/insrc In10
+/ch/11/config/insrc In11
+/ch/12/config/insrc In12
+/ch/13/config/insrc In13
+/ch/14/config/insrc In14
+/ch/15/config/insrc In15
+/ch/16/config/insrc In16
+/ch/01/config/rtnsrc U01
+/ch/02/config/rtnsrc U02
+/ch/03/config/rtnsrc U03
+/ch/04/config/rtnsrc U04
+/ch/05/config/rtnsrc U05
+/ch/06/config/rtnsrc U06
+/ch/07/config/rtnsrc U07
+/ch/08/config/rtnsrc U08
+/ch/09/config/rtnsrc U09
+/ch/10/config/rtnsrc U10
+/ch/11/config/rtnsrc U11
+/ch/12/config/rtnsrc U12
+/ch/13/config/rtnsrc U13
+/ch/14/config/rtnsrc U14
+/ch/15/config/rtnsrc U15
+/ch/16/config/rtnsrc U16
+/rtn/aux/config/rtnsrc U0102
+/rtn/1/config/rtnsrc U0102
+/rtn/2/config/rtnsrc U0304
+/rtn/3/config/rtnsrc U0506
+/rtn/4/config/rtnsrc U0708
+/routing/main/01 LR
+/routing/main/02 LR
+/routing/aux/01 Ch01 POST
+/routing/aux/02 Bus2 POST
+/routing/aux/03 Ch14 POST
+/routing/aux/04 Ch13 POST
+/routing/aux/05 Fx3L POST
+/routing/aux/06 Bus6 POST
+/routing/p16/01 Ch01 IN+M
+/routing/p16/02 Ch02 IN+M
+/routing/p16/03 Ch03 IN+M
+/routing/p16/04 Ch04 IN+M
+/routing/p16/05 Ch05 IN+M
+/routing/p16/06 Ch06 IN+M
+/routing/p16/07 Ch07 IN+M
+/routing/p16/08 Ch08 IN+M
+/routing/p16/09 Ch09 IN+M
+/routing/p16/10 Ch10 IN+M
+/routing/p16/11 Ch11 IN+M
+/routing/p16/12 Ch12 IN+M
+/routing/p16/13 Ch13 IN+M
+/routing/p16/14 Ch14 IN+M
+/routing/p16/15 Ch15 IN+M
+/routing/p16/16 Ch16 IN+M
+/routing/usb/01 Ch01 AIN
+/routing/usb/02 Ch02 AIN
+/routing/usb/03 Ch03 AIN
+/routing/usb/04 Ch04 AIN
+/routing/usb/05 Ch05 AIN
+/routing/usb/06 Ch06 AIN
+/routing/usb/07 Ch07 AIN
+/routing/usb/08 Ch08 AIN
+/routing/usb/09 Ch09 AIN
+/routing/usb/10 Ch10 AIN
+/routing/usb/11 Ch11 AIN
+/routing/usb/12 Ch12 AIN
+/routing/usb/13 Ch13 AIN
+/routing/usb/14 Ch14 AIN
+/routing/usb/15 Ch15 AIN
+/routing/usb/16 Ch16 AIN
+/routing/usb/17 L AIN
+/routing/usb/18 R AIN
